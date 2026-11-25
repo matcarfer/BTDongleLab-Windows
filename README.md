@@ -2,7 +2,7 @@
 
 <h1 align="center">BTDongleLab</h1>
 
-<h2 align="center"><a href="https://github.com/matcarfer/BTDongleLab-Windows/releases/download/v0.39/BTDongleLab_v0.39.exe">⬇ Descargar EXE</a></h2>
+<h2 align="center"><a href="https://github.com/matcarfer/BTDongleLab-Windows/releases/download/v0.42/BTDongleLab_v0.42.exe">⬇ Descargar EXE</a></h2>
 
 <p align="center">
   <b>Español</b> · <a href="README.en.md">English</a><br><br>
